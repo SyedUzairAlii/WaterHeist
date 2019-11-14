@@ -3,7 +3,7 @@ WaterHeist is a water disturbution service software/web build on  react redux.
  
 # Installation
 
-**Note: Wieldy is using [yarn](https://yarnpkg.com/en/docs/install) instead npm**
+**Note: WaterHeist is using [yarn](https://yarnpkg.com/en/docs/install) instead npm**
 
 Installing all the dependencies of project, run following command:
 
